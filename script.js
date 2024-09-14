@@ -43,8 +43,7 @@ $(document).ready(function () {
         "Fullstack Developer",
         "Software Developer",
        
-        "Founder",
-        "Author"
+      
       ],
       typeSpeed: 100,
       backSpeed: 60,
@@ -56,8 +55,7 @@ $(document).ready(function () {
         "Fullstack Developer",
         "Software Developer",
         
-        "Founder",
-        "Author"
+        
       ],
       typeSpeed: 100,
       backSpeed: 60,
